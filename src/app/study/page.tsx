@@ -81,10 +81,13 @@ function StudySession({ cards, mode, filter }: { cards: FlashcardType[]; mode: s
   const { currentCard, isFlipped, flip, rate, completed, currentIndex, totalCards, reviewedCount, restart } =
     useStudySession(cards);
 
-  // Swipe handling
+  // Swipe handling — only on the card area
   const touchStart = useRef<{ x: number; y: number } | null>(null);
+  const cardRef = useRef<HTMLDivElement>(null);
 
   const handleTouchStart = useCallback((e: React.TouchEvent) => {
+    // Only track swipes originating on the card
+    if (!cardRef.current?.contains(e.target as Node)) return;
     touchStart.current = { x: e.touches[0].clientX, y: e.touches[0].clientY };
   }, []);
 
@@ -95,7 +98,8 @@ function StudySession({ cards, mode, filter }: { cards: FlashcardType[]; mode: s
       const dy = e.changedTouches[0].clientY - touchStart.current.y;
       touchStart.current = null;
 
-      if (Math.abs(dx) < 50 || Math.abs(dy) > Math.abs(dx)) return;
+      // Require 40px horizontal swipe, mostly horizontal
+      if (Math.abs(dx) < 40 || Math.abs(dy) > Math.abs(dx)) return;
 
       if (!isFlipped) {
         flip();
@@ -161,7 +165,9 @@ function StudySession({ cards, mode, filter }: { cards: FlashcardType[]; mode: s
 
       {currentCard && (
         <>
-          <FlashcardComponent card={currentCard} isFlipped={isFlipped} onFlip={flip} />
+          <div ref={cardRef}>
+            <FlashcardComponent card={currentCard} isFlipped={isFlipped} onFlip={flip} />
+          </div>
           <div className={`rating-container ${isFlipped ? "rating-visible" : "rating-hidden"}`}>
             <RatingButtons onRate={rate} disabled={!isFlipped} />
           </div>

@@ -79,17 +79,20 @@ body {
   color: var(--color-text);
   min-height: 100dvh;
   -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
 }
 
 /* ===== Layout ===== */
 .main-content {
-  padding-top: 64px;
-  padding-bottom: 80px;
+  padding-top: 16px;
+  padding-bottom: calc(72px + env(safe-area-inset-bottom) + 8px);
   min-height: 100dvh;
 }
 
 @media (min-width: 768px) {
   .main-content {
+    padding-top: 64px;
     padding-bottom: 24px;
   }
 }
@@ -98,8 +101,15 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: calc(100dvh - 144px);
-  padding: 24px;
+  min-height: calc(100dvh - 160px);
+  padding: 16px;
+}
+
+@media (min-width: 768px) {
+  .page-center {
+    min-height: calc(100dvh - 112px);
+    padding: 24px;
+  }
 }
 
 /* ===== Spinner ===== */
@@ -224,8 +234,8 @@ body {
 
 /* ===== Theme Toggle ===== */
 .theme-toggle {
-  width: 40px;
-  height: 40px;
+  width: 48px;
+  height: 48px;
   border-radius: var(--radius-sm);
   border: 1px solid var(--color-border);
   background: var(--color-surface);
@@ -326,11 +336,19 @@ body {
   gap: 16px;
   transition: all 0.15s;
   width: 100%;
+  min-height: 72px;
+  touch-action: manipulation;
 }
 
-.mode-card:hover {
-  border-color: var(--color-primary);
-  box-shadow: var(--shadow-md);
+.mode-card:active {
+  transform: scale(0.98);
+}
+
+@media (hover: hover) {
+  .mode-card:hover {
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-md);
+  }
 }
 
 .mode-card h3 {
@@ -388,11 +406,19 @@ body {
   text-align: left;
   transition: all 0.15s;
   width: 100%;
+  min-height: 56px;
+  touch-action: manipulation;
 }
 
-.mode-card-sm:hover {
-  border-color: var(--color-primary);
-  box-shadow: var(--shadow-sm);
+.mode-card-sm:active {
+  transform: scale(0.97);
+}
+
+@media (hover: hover) {
+  .mode-card-sm:hover {
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-sm);
+  }
 }
 
 .mode-card-sm h3 {
@@ -412,9 +438,10 @@ body {
   width: 100%;
   max-width: 480px;
   margin: 0 auto;
-  aspect-ratio: 3 / 4;
-  max-height: 420px;
+  aspect-ratio: 4 / 5;
+  max-height: min(420px, calc(100dvh - 280px));
   cursor: pointer;
+  touch-action: manipulation;
 }
 
 .card-flipper {
@@ -440,8 +467,19 @@ body {
   box-shadow: var(--shadow-lg);
   display: flex;
   flex-direction: column;
-  padding: 28px 24px;
+  padding: 20px 16px;
   overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.card-face:active {
+  box-shadow: var(--shadow-md);
+}
+
+@media (min-width: 768px) {
+  .card-face {
+    padding: 28px 24px;
+  }
 }
 
 .card-front {
@@ -542,23 +580,35 @@ body {
 
 .rating-buttons {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 8px;
   max-width: 480px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 4px;
+}
+
+@media (min-width: 400px) {
+  .rating-buttons {
+    grid-template-columns: repeat(4, 1fr);
+    padding: 0 16px;
+  }
 }
 
 .rating-btn {
-  padding: 14px 8px;
+  padding: 12px 8px;
   border-radius: var(--radius-sm);
   font-weight: 600;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   cursor: pointer;
   border: 2px solid transparent;
   transition: all 0.15s;
   min-height: 48px;
   color: #fff;
+  touch-action: manipulation;
+}
+
+.rating-btn:active {
+  transform: scale(0.96);
 }
 
 .rating-btn:disabled {
@@ -571,20 +621,30 @@ body {
 .rating-good { background: var(--color-rating-good); }
 .rating-easy { background: var(--color-rating-easy); }
 
-.rating-btn:not(:disabled):hover {
-  transform: translateY(-1px);
-  box-shadow: var(--shadow-md);
+@media (hover: hover) {
+  .rating-btn:not(:disabled):hover {
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+  }
 }
 
 /* ===== Study Page ===== */
 .study-page {
   max-width: 520px;
   margin: 0 auto;
-  padding: 16px;
+  padding: 12px 12px;
   display: flex;
   flex-direction: column;
-  gap: 20px;
-  min-height: calc(100dvh - 144px);
+  gap: 16px;
+  min-height: calc(100dvh - 160px);
+}
+
+@media (min-width: 768px) {
+  .study-page {
+    padding: 16px;
+    gap: 20px;
+    min-height: calc(100dvh - 112px);
+  }
 }
 
 .study-header {
@@ -594,8 +654,8 @@ body {
 }
 
 .btn-back {
-  width: 40px;
-  height: 40px;
+  width: 48px;
+  height: 48px;
   border-radius: var(--radius-sm);
   border: 1px solid var(--color-border);
   background: var(--color-surface);
