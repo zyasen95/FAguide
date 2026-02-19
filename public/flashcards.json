@@ -1,0 +1,188 @@
+{
+  "flashcards": [
+    {
+      "id": "stf-anat-1",
+      "case": "Subtalar Fusion",
+      "category": "Anatomy",
+      "question": "What joint is fused in a subtalar fusion?",
+      "answer": "Posterior facet of the talocalcaneal joint.",
+      "explanation": "The posterior facet is the primary load-bearing articulation and the main surface prepared via the sinus tarsi approach."
+    },
+    {
+      "id": "stf-anat-2",
+      "case": "Subtalar Fusion",
+      "category": "Anatomy",
+      "question": "Name the three subtalar facets.",
+      "answer": "Posterior, middle, and anterior facets.",
+      "explanation": "Posterior is largest; middle lies on sustentaculum tali; anterior is part of talocalcaneonavicular complex."
+    },
+    {
+      "id": "stf-anat-3",
+      "case": "Subtalar Fusion",
+      "category": "Anatomy",
+      "question": "What articulates with the posterior calcaneal facet?",
+      "answer": "Posterior talar facet.",
+      "explanation": "This is the main weight-bearing surface involved in subtalar fusion."
+    },
+    {
+      "id": "stf-anat-4",
+      "case": "Subtalar Fusion",
+      "category": "Anatomy",
+      "question": "What articulates with the middle facet of the calcaneus?",
+      "answer": "Middle talar facet on the sustentaculum tali.",
+      "explanation": "This lies medially and is close to the posterior tibial neurovascular bundle."
+    },
+    {
+      "id": "stf-anat-5",
+      "case": "Subtalar Fusion",
+      "category": "Anatomy",
+      "question": "What articulates with the anterior calcaneal facet?",
+      "answer": "Anterior talar facet.",
+      "explanation": "Forms part of the talocalcaneonavicular joint complex."
+    },
+    {
+      "id": "stf-anat-6",
+      "case": "Subtalar Fusion",
+      "category": "Anatomy",
+      "question": "What are the borders of the tarsal tunnel?",
+      "answer": "Roof: flexor retinaculum; Floor: medial talus, sustentaculum tali, medial calcaneus.",
+      "explanation": "The tunnel lies posterior to the medial malleolus and contains key tendons and neurovascular structures."
+    },
+    {
+      "id": "stf-anat-7",
+      "case": "Subtalar Fusion",
+      "category": "Anatomy",
+      "question": "List the contents of the tarsal tunnel anterior to posterior.",
+      "answer": "Tibialis posterior, FDL, posterior tibial artery, posterior tibial vein, tibial nerve, FHL.",
+      "explanation": "Mnemonic: Tom, Dick And Very Nervous Harry."
+    },
+    {
+      "id": "stf-anat-8",
+      "case": "Subtalar Fusion",
+      "category": "Anatomy",
+      "question": "Where does FHL run in relation to the sustentaculum tali?",
+      "answer": "In a groove beneath the sustentaculum tali.",
+      "explanation": "Important when placing medial screws to avoid tendon injury."
+    },
+    {
+      "id": "stf-align-1",
+      "case": "Subtalar Fusion",
+      "category": "Alignment",
+      "question": "What is the ideal hindfoot position for subtalar fusion?",
+      "answer": "Neutral to 5 degrees valgus.",
+      "explanation": "Residual varus leads to lateral overload and failure."
+    },
+    {
+      "id": "stf-princ-1",
+      "case": "Subtalar Fusion",
+      "category": "Principles",
+      "question": "What are the three principles of successful fusion?",
+      "answer": "Adequate preparation, correct alignment, stable compression.",
+      "explanation": "Fusion requires both biological and mechanical optimisation."
+    },
+    {
+      "id": "stf-fix-1",
+      "case": "Subtalar Fusion",
+      "category": "Fixation",
+      "question": "Why use two screws instead of one?",
+      "answer": "Improves rotational stability.",
+      "explanation": "A single screw allows rotational micromotion."
+    },
+    {
+      "id": "stf-comp-1",
+      "case": "Subtalar Fusion",
+      "category": "Complications",
+      "question": "Most important determinant of outcome?",
+      "answer": "Correct alignment in slight valgus.",
+      "explanation": "Malalignment is more problematic than fixation strength."
+    },
+    {
+      "id": "tpsi-anat-1",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Anatomy",
+      "question": "Which joints are fused in a triple arthrodesis?",
+      "answer": "Subtalar, talonavicular, calcaneocuboid.",
+      "explanation": "Eliminates hindfoot motion and stabilises rigid deformity."
+    },
+    {
+      "id": "tpsi-anat-2",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Anatomy",
+      "question": "Which joint is the keystone of hindfoot motion?",
+      "answer": "Talonavicular joint.",
+      "explanation": "Fusion of TN significantly reduces hindfoot motion."
+    },
+    {
+      "id": "tpsi-princ-1",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Principles",
+      "question": "What is the purpose of the PSI jig?",
+      "answer": "Execute a pre-planned multiplanar correction accurately.",
+      "explanation": "Improves precision of wedge orientation and alignment at deformity apex."
+    },
+    {
+      "id": "tpsi-def-1",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Deformity",
+      "question": "What drives cavovarus deformity?",
+      "answer": "Plantarflexed first ray and hindfoot varus.",
+      "explanation": "Creates high medial arch and lateral overload."
+    },
+    {
+      "id": "tpsi-rad-1",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Radiology",
+      "question": "What angle assesses medial arch alignment?",
+      "answer": "Meary's angle.",
+      "explanation": "Angle between talus and first metatarsal; should be near zero when corrected."
+    },
+    {
+      "id": "tpsi-ost-1",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Osteotomy",
+      "question": "What is a Cole osteotomy?",
+      "answer": "Midfoot dorsal closing wedge osteotomy.",
+      "explanation": "Reduces rigid cavus by lowering the medial arch."
+    },
+    {
+      "id": "tpsi-ost-2",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Osteotomy",
+      "question": "How does a Cotton osteotomy differ?",
+      "answer": "Medial cuneiform dorsal opening wedge.",
+      "explanation": "Used to plantarflex first ray, typically in flatfoot."
+    },
+    {
+      "id": "tpsi-align-1",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Alignment",
+      "question": "What is the most catastrophic malalignment in cavus correction?",
+      "answer": "Residual hindfoot varus.",
+      "explanation": "Leads to lateral overload and failure."
+    },
+    {
+      "id": "tpsi-strat-1",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Strategy",
+      "question": "What must be corrected first: hindfoot or forefoot?",
+      "answer": "Hindfoot.",
+      "explanation": "Forefoot deformity may be compensatory."
+    },
+    {
+      "id": "tpsi-soft-1",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Soft Tissue",
+      "question": "Name key soft tissue procedures for cavovarus.",
+      "answer": "Plantar fascia release, peroneus longus to brevis transfer, gastrocnemius recession.",
+      "explanation": "Used in flexible deformities or adjunctively."
+    },
+    {
+      "id": "tpsi-oss-1",
+      "case": "Triple Fusion with PSI Osteotomy",
+      "category": "Osseous",
+      "question": "Name key osseous procedures for cavovarus.",
+      "answer": "First metatarsal dorsiflexion osteotomy, Cole osteotomy, calcaneal osteotomy, triple fusion.",
+      "explanation": "Choice depends on deformity apex and rigidity."
+    }
+  ]
+}
