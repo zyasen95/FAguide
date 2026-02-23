@@ -1,0 +1,886 @@
+{
+    "flashcards": [
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Overview",
+        "question": "What is a hindfoot nail (tibiotalocalcaneal nail) designed to achieve?",
+        "answer": "A stable tibiotalocalcaneal construct to create or maintain a plantigrade foot, often as a fusion/salvage procedure.",
+        "explanation": "The nail spans calcaneus → talus → tibia, providing load-sharing stability and allowing fusion or stable fixation in selected scenarios."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Overview",
+        "question": "Which joints are typically included in a TTC fusion with a hindfoot nail?",
+        "answer": "The ankle (tibiotalar) and subtalar (talocalcaneal) joints.",
+        "explanation": "A TTC construct aims to arthrodese both tibiotalar and subtalar joints to achieve pain relief and stability."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Indications",
+        "question": "Give common trauma indications for TTC nailing.",
+        "answer": "Unstable ankle fracture in frail elderly, failed ankle fixation, severe pilon/ankle fracture-dislocation salvage, some Charcot fracture-dislocations.",
+        "explanation": "TTC nailing can provide robust stability with lower soft-tissue risk than extensive ORIF in selected high-risk patients."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Indications",
+        "question": "Give common elective/reconstruction indications for TTC nailing.",
+        "answer": "End-stage ankle + subtalar arthritis, talar AVN/collapse, failed ankle arthroplasty, severe deformity requiring TTC arthrodesis.",
+        "explanation": "Used as a salvage procedure when pain and deformity involve both ankle and subtalar joints or when bone quality is poor."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Contraindications",
+        "question": "List key contraindications to TTC nailing.",
+        "answer": "Active infection, inability to achieve plantigrade alignment, severe tibial deformity preventing canal alignment, inadequate soft tissue envelope at entry/incisions.",
+        "explanation": "Infection and uncorrectable malalignment are major reasons to avoid or delay TTC nailing."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Decision-making",
+        "question": "Why might a TTC nail be preferred over ORIF for an unstable ankle fracture in a frail elderly patient?",
+        "answer": "Lower wound complication risk, more robust load-sharing stability, and potential for earlier mobilisation/weight bearing.",
+        "explanation": "Subcutaneous distal tibia/ankle soft tissues are vulnerable; TTC can be a pragmatic salvage/fixation strategy in selected frail patients."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Anatomy",
+        "question": "Name the main bony corridor for a hindfoot nail.",
+        "answer": "Calcaneal tuberosity → talar body/neck region → tibial medullary canal.",
+        "explanation": "The nail must pass centrally through hindfoot bones to align with tibial canal and avoid malalignment or cortical breach."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Anatomy",
+        "question": "What is the sustentaculum tali and why does it matter in hindfoot reconstruction?",
+        "answer": "A medial calcaneal bony shelf supporting the talus; it forms the middle subtalar facet and is key for medial column stability.",
+        "explanation": "It is an important landmark and load-bearing structure; medial column alignment influences hindfoot valgus/varus balance."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Anatomy",
+        "question": "Which nerve is classically at risk with a posterolateral hindfoot incision/trajectory?",
+        "answer": "The sural nerve.",
+        "explanation": "Sural nerve injury can cause neuroma and troublesome lateral foot numbness/pain."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Anatomy",
+        "question": "Which neurovascular bundle is at risk medially during hindfoot/ankle work?",
+        "answer": "Posterior tibial neurovascular bundle.",
+        "explanation": "Medial dissection near the tarsal tunnel risks injury to posterior tibial artery/veins and tibial nerve."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Anatomy",
+        "question": "Name the three subtalar facets.",
+        "answer": "Posterior, middle, and anterior facets.",
+        "explanation": "Posterior facet is the largest; middle sits on sustentaculum tali; anterior relates to talocalcaneonavicular complex."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Anatomy",
+        "question": "Which subtalar facet is the primary load-bearing articulation typically prepared in fusion work?",
+        "answer": "The posterior facet.",
+        "explanation": "The posterior facet is largest and bears most load, so its preparation is crucial for fusion success."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Alignment",
+        "question": "What are typical alignment targets for TTC fusion positioning?",
+        "answer": "Neutral dorsiflexion, ~5° hindfoot valgus, neutral/appropriate rotation, plantigrade foot.",
+        "explanation": "Varus malalignment is poorly tolerated; slight valgus improves gait mechanics and lateral column load distribution."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Alignment",
+        "question": "Why is hindfoot varus after TTC fusion a problem?",
+        "answer": "It overloads the lateral border, increases pain, and predisposes to failure/non-union and poor function.",
+        "explanation": "A plantigrade foot with slight valgus is generally better tolerated than varus."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Alignment",
+        "question": "What clinical check confirms a plantigrade foot intra-operatively?",
+        "answer": "Heel position in slight valgus with the sole flat relative to the floor plane (simulated), and the forefoot not in significant supination/pronation.",
+        "explanation": "In theatre you approximate weight-bearing alignment by assessing heel/forefoot position and overall foot-to-leg relationship."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Technique",
+        "question": "Where is the typical entry point for a hindfoot nail?",
+        "answer": "Plantar aspect of calcaneal tuberosity, centred (often slightly lateral) and aligned with tibial canal on fluoroscopy.",
+        "explanation": "Entry must align with tibial canal to avoid varus/valgus malalignment and cortical breach; exact position varies by system and anatomy."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Technique",
+        "question": "What is a common fluoroscopic pitfall when establishing the guidewire for TTC nailing?",
+        "answer": "Accepting a trajectory that looks central on one view but is malpositioned on the orthogonal view.",
+        "explanation": "You must confirm position on multiple planes to avoid malalignment, talar breach, or plantar prominence."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Technique",
+        "question": "In TTC fusion, what is the principle of joint preparation?",
+        "answer": "Remove cartilage to bleeding cancellous bone and create congruent surfaces to maximise fusion contact.",
+        "explanation": "Fusion success depends on adequate preparation, compression, stability, biology, and alignment."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Technique",
+        "question": "Why might you avoid aggressive joint preparation in some trauma TTC constructs?",
+        "answer": "If used primarily as a stabilisation strategy in frail patients, extensive joint preparation can increase operative time and soft-tissue insult.",
+        "explanation": "Some constructs are used for stabilisation rather than formal arthrodesis, depending on indication and patient factors."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Fixation",
+        "question": "Which segments are typically locked in TTC nailing?",
+        "answer": "Calcaneus (distal locking) and tibia (proximal locking), often with talar fixation depending on system.",
+        "explanation": "Locking controls rotation and length; distal fixation provides purchase in calcaneus and sometimes talus."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Fixation",
+        "question": "What is the purpose of compression across the fusion site in TTC constructs?",
+        "answer": "To enhance stability and promote bony union.",
+        "explanation": "Compression improves contact, reduces micromotion, and supports fusion biology."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Complications",
+        "question": "What is a common site of non-union in TTC fusion?",
+        "answer": "The subtalar joint.",
+        "explanation": "Subtalar fusion can be more biologically and mechanically challenging depending on bone quality, alignment, and preparation."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Complications",
+        "question": "List common complications of TTC nailing.",
+        "answer": "Non-union, malalignment (especially varus), infection, hardware failure, periprosthetic tibial fracture, plantar heel pain/prominence, nerve injury.",
+        "explanation": "Complications reflect the high-risk patient cohort and the long lever-arm construct."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Complications",
+        "question": "What is a plantar heel-specific complication of TTC nails and how can it present?",
+        "answer": "Painful plantar prominence/irritation at the entry point, sometimes with skin breakdown.",
+        "explanation": "If nail/locking hardware is prominent or alignment is off, plantar symptoms can be significant."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Complications",
+        "question": "Why can a TTC nail predispose to a tibial fracture?",
+        "answer": "Stress riser at the proximal end of the nail and altered load transfer, especially in osteoporotic bone.",
+        "explanation": "Long lever arms and nail stiffness can concentrate stress at nail termini."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Counselling",
+        "question": "What key points should you counsel patients about before TTC fusion/nailing?",
+        "answer": "Loss of ankle/subtalar motion, expected gait changes, non-union/infection risk, hardware problems, and the goal of a plantigrade, pain-reduced foot.",
+        "explanation": "Functional trade-off is central: stability and pain relief at the expense of hindfoot motion."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Post-op",
+        "question": "How does post-operative weight-bearing vary after TTC nailing?",
+        "answer": "It depends on indication and stability; some frail trauma cases allow earlier protected weight bearing, whereas formal fusion often remains protected until signs of union.",
+        "explanation": "Biology, fixation strength, and soft tissues drive the protocol rather than a single universal rule."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "FRCS Viva",
+        "question": "What is the most important positional error to avoid in TTC fusion?",
+        "answer": "Hindfoot varus malalignment.",
+        "explanation": "Varus is poorly tolerated and leads to lateral border overload, pain, and failure."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "FRCS Viva",
+        "question": "In talar avascular necrosis, why might TTC fusion be chosen over isolated ankle fusion?",
+        "answer": "Because the subtalar joint and talar body viability may be compromised; TTC provides a more stable salvage construct spanning the talus.",
+        "explanation": "When talar collapse threatens both joints, spanning fusion improves stability and pain control."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "FRCS Viva",
+        "question": "What are typical reasons a TTC fusion might fail to unite?",
+        "answer": "Poor joint preparation, malalignment, inadequate compression, infection, neuropathy/Charcot, smoking, poor bone quality.",
+        "explanation": "Union depends on mechanics + biology; high-risk cohorts have multiple adverse factors."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Revision/Salvage",
+        "question": "How might you manage a symptomatic non-union after TTC nailing?",
+        "answer": "Assess infection and alignment, consider revision fixation with improved compression, bone grafting/biologics, and correction of deformity; consider alternative constructs if bone stock is poor.",
+        "explanation": "The plan hinges on whether the problem is mechanical (alignment/stability) or biological/infective."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Imaging",
+        "question": "What imaging is most useful pre-operatively for TTC planning in complex cases?",
+        "answer": "Weight-bearing radiographs (if possible) and CT to assess joint surfaces, bone stock, and deformity.",
+        "explanation": "CT helps evaluate subtalar/ankle joint integrity, comminution, and talar collapse."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Imaging",
+        "question": "What fluoroscopy views are essential during TTC nailing?",
+        "answer": "Hindfoot axial, lateral, and AP views of ankle/tibia to confirm guidewire/nail position and alignment.",
+        "explanation": "Multi-plane confirmation reduces risk of malposition and malalignment."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Anatomy",
+        "question": "Name the key arterial contributors to talar blood supply often discussed in viva.",
+        "answer": "Branches via the tarsal canal (posterior tibial), sinus tarsi (dorsalis pedis/peroneal), and deltoid branches.",
+        "explanation": "Talar blood supply is tenuous; disruption increases AVN risk and influences salvage decisions."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "FRCS Viva",
+        "question": "Why might TTC nailing be a reasonable option in Charcot neuroarthropathy?",
+        "answer": "It provides a load-sharing intramedullary construct with stability across multiple joints in poor-quality neuropathic bone.",
+        "explanation": "Charcot requires robust fixation and alignment control; TTC nails can be part of limb-salvage strategies."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Pitfalls",
+        "question": "What are common technical causes of varus malalignment with TTC nailing?",
+        "answer": "Medialised entry point, malreduced hindfoot deformity, accepting guidewire drift, inadequate correction before nailing.",
+        "explanation": "Alignment must be corrected before committing to the guidewire/nail trajectory."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Pitfalls",
+        "question": "Why is rotational alignment important in TTC fusion and how can you assess it intra-op?",
+        "answer": "Malrotation alters gait and foot progression angle; assess by comparing foot position to tibial tubercle/patella and contralateral limb, and by clinical foot progression alignment.",
+        "explanation": "Rotation errors can be subtle on X-ray; clinical checks matter."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Overview",
+        "question": "Define a pilon fracture.",
+        "answer": "A fracture involving the distal tibial plafond (weight-bearing articular surface), often with metaphyseal comminution.",
+        "explanation": "It typically results from axial loading with or without rotational components."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Mechanism",
+        "question": "What is the classic mechanism of a high-energy pilon fracture?",
+        "answer": "Axial load (e.g., fall from height, RTC) driving the talus into the tibial plafond.",
+        "explanation": "This creates articular impaction (die-punch) and metaphyseal comminution with significant soft-tissue injury."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Mechanism",
+        "question": "How can low-energy pilon-type injuries present differently?",
+        "answer": "Less comminution, more rotational components, and often in elderly/osteoporotic bone with fragile soft tissues.",
+        "explanation": "Management still prioritises soft tissues and stable articular reconstruction."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Classification",
+        "question": "What are the Rüedi–Allgöwer types?",
+        "answer": "Type I: non-displaced; Type II: displaced with minimal comminution; Type III: severe comminution.",
+        "explanation": "Classic system; useful conceptually but limited in guiding modern CT-based planning."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Classification",
+        "question": "What is the AO/OTA classification group for distal tibia (pilon) fractures?",
+        "answer": "43 (distal tibia): A extra-articular, B partial articular, C complete articular.",
+        "explanation": "Most true pilons are 43-C (complete articular) with metaphyseal comminution."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Classification",
+        "question": "What distinguishes AO/OTA 43-B from 43-C fractures?",
+        "answer": "43-B is partial articular with some continuity between diaphysis and articular segment; 43-C has complete separation of articular block from diaphysis.",
+        "explanation": "This affects reduction strategy and stability requirements."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Anatomy",
+        "question": "What is the tibial plafond?",
+        "answer": "The distal tibial articular surface forming the roof of the ankle mortise.",
+        "explanation": "It bears weight through the tibiotalar joint and is critical for long-term ankle function."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Anatomy",
+        "question": "What is the syndesmosis and why is it relevant in pilon fractures?",
+        "answer": "The distal tibiofibular ligament complex; stability and fibular length influence ankle mortise alignment and reduction.",
+        "explanation": "Posterolateral fragments and fibular injury can impact syndesmotic stability and reduction sequence."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "CT Anatomy",
+        "question": "What is a 'die-punch' fragment in pilon fractures?",
+        "answer": "An impacted central articular fragment driven into the metaphysis by the talus.",
+        "explanation": "It often requires elevation and bone void management to restore the articular surface."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "CT Anatomy",
+        "question": "Name common CT-recognised fragments in pilon fractures.",
+        "answer": "Anterolateral (Chaput), posterolateral (Volkmann), medial malleolar/medial fragment, central die-punch.",
+        "explanation": "CT-based planning focuses on these fragments to guide approach and fixation sequence."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "CT Anatomy",
+        "question": "What is the Chaput fragment?",
+        "answer": "An anterolateral distal tibial fragment at the tibial attachment of the anterior inferior tibiofibular ligament (AITFL).",
+        "explanation": "It is relevant to syndesmotic stability and may need fixation depending on injury pattern."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "CT Anatomy",
+        "question": "What is the Volkmann fragment in pilon fractures?",
+        "answer": "A posterolateral distal tibial fragment often involving the posterior malleolar region and posterior tibial plafond.",
+        "explanation": "It can be key for posterior stability and syndesmotic mechanics and often benefits from posterior fixation."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Soft Tissue",
+        "question": "Why is soft-tissue management central to pilon fracture outcomes?",
+        "answer": "High-energy pilons have severe swelling and soft-tissue compromise; early extensive surgery increases wound breakdown and infection risk.",
+        "explanation": "Staged protocols aim to respect soft tissues and reduce complications."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Soft Tissue",
+        "question": "What clinical sign is often used to indicate readiness for definitive ORIF after initial spanning fixation?",
+        "answer": "Return of skin wrinkles ('wrinkle sign') and reduced swelling.",
+        "explanation": "This suggests improved soft-tissue condition; timing is commonly around 7–14 days, but guided by examination."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Soft Tissue",
+        "question": "What does the Tscherne classification broadly describe?",
+        "answer": "Severity of soft tissue injury in closed fractures.",
+        "explanation": "It helps frame risk and guides surgical timing and approach choice, though it is not specific to pilons."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Initial Management",
+        "question": "What are key immediate priorities when a pilon fracture presents in ED?",
+        "answer": "Neurovascular assessment, analgesia, splintage, skin/soft-tissue assessment, X-rays, consider CT, and early decision on spanning external fixation if unstable or swollen.",
+        "explanation": "Early stabilisation and soft-tissue protection reduce complications; exclude compartment syndrome."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Initial Management",
+        "question": "When is spanning external fixation commonly indicated for pilon fractures?",
+        "answer": "High-energy injuries with swelling/blisters, gross instability, threatened skin, or open injuries needing staged management.",
+        "explanation": "Spanning ex-fix restores length/alignment while allowing soft tissues to recover before definitive fixation."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Staged Strategy",
+        "question": "What are typical steps in a staged pilon fracture protocol?",
+        "answer": "Stage 1: spanning ex-fix (± fibula fixation) and CT; Stage 2: definitive fixation once soft tissues permit.",
+        "explanation": "CT after provisional reduction helps plan approaches and fixation sequence."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Imaging",
+        "question": "Why is CT important in pilon fracture planning?",
+        "answer": "It defines fragment anatomy, impaction, comminution, and guides surgical approach and fixation sequence.",
+        "explanation": "CT-based planning reduces surprises and improves likelihood of anatomical reduction."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Imaging",
+        "question": "When is the best time to obtain CT in a high-energy pilon fracture?",
+        "answer": "Often after provisional spanning fixation and restoration of length/alignment.",
+        "explanation": "The fragments are more interpretable once gross displacement is corrected, improving surgical planning."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Approaches",
+        "question": "What are common surgical approaches used for pilon ORIF?",
+        "answer": "Anterolateral, anteromedial/medial, and posterolateral (± posteromedial) depending on fragment pattern.",
+        "explanation": "Approach choice is fragment-driven; multiple approaches may be staged or combined while respecting skin bridges."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Approaches",
+        "question": "Which nerve is commonly at risk during an anterolateral approach to the distal tibia/ankle?",
+        "answer": "The superficial peroneal nerve.",
+        "explanation": "It can be variable in course; careful identification and protection reduce neuroma/numbness."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Approaches",
+        "question": "Which structure is a key landmark and risk during a medial approach near the ankle?",
+        "answer": "The saphenous vein and saphenous nerve.",
+        "explanation": "Medial soft tissues are thin; meticulous handling reduces wound problems."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Approaches",
+        "question": "What interval is commonly used in a posterolateral approach to the ankle region?",
+        "answer": "Between peroneal tendons and flexor hallucis longus (FHL).",
+        "explanation": "This provides access to posterior fragments; sural nerve and lesser saphenous vein are also considerations."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Approaches",
+        "question": "Why might a posterolateral approach be chosen early in pilon fixation?",
+        "answer": "To directly reduce and buttress the posterolateral/posterior fragment (e.g., Volkmann), which helps restore the plafond and stability.",
+        "explanation": "Direct posterior fixation can improve reduction quality and assist syndesmotic/ankle mortise restoration."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Reduction Principles",
+        "question": "What are core reduction goals in pilon fractures?",
+        "answer": "Restore fibular length (if fractured), reconstruct articular surface, restore tibial alignment/length/rotation, and address metaphyseal defect.",
+        "explanation": "Articular congruity and overall limb alignment both drive long-term function and arthritis risk."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Reduction Principles",
+        "question": "Why is restoring fibular length important in pilon fractures?",
+        "answer": "It helps re-establish the lateral column and ankle mortise alignment and can serve as a reduction template.",
+        "explanation": "Fibular length influences talar position, syndesmosis, and tibial plafond reconstruction."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Reduction Sequence",
+        "question": "What is a common fixation sequence in complex pilon ORIF?",
+        "answer": "Address fibula (if needed), reduce posterior fragment, reconstruct articular surface, then metaphyseal/diaphyseal fixation with plate(s).",
+        "explanation": "Sequence is pattern-dependent; posterior fragment fixation can stabilise and guide articular reconstruction."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Bone Defect",
+        "question": "Why is bone void management sometimes needed in pilon fractures?",
+        "answer": "Elevation of impacted articular fragments can leave a metaphyseal defect that risks subsidence without support.",
+        "explanation": "Support can include bone graft or substitutes, depending on case and surgeon preference."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Complications",
+        "question": "List common early complications of pilon fractures and their fixation.",
+        "answer": "Wound breakdown, infection, compartment syndrome, malreduction, and hardware issues.",
+        "explanation": "Soft tissues are the limiting factor; high-energy mechanisms and subcutaneous tibia increase risk."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Complications",
+        "question": "List common late complications after pilon fractures.",
+        "answer": "Post-traumatic arthritis, malunion (often varus), non-union, chronic pain, stiffness, and functional limitation.",
+        "explanation": "Even with good surgery, articular injury and soft-tissue trauma can drive long-term symptoms."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Compartment Syndrome",
+        "question": "Why must compartment syndrome be actively considered in pilon injuries?",
+        "answer": "High-energy distal tibial injuries can cause significant swelling and compartment pressure rise, risking muscle/nerve necrosis.",
+        "explanation": "Pain out of proportion, pain on passive stretch, tense compartments, and escalating analgesic needs should prompt urgent assessment."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Counselling",
+        "question": "What should you counsel patients about regarding outcomes after pilon fractures?",
+        "answer": "High risk of stiffness and post-traumatic arthritis, prolonged rehab, potential for further surgery, and importance of soft-tissue healing.",
+        "explanation": "Pilon fractures have guarded functional prognosis even with optimal management."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Prognosis",
+        "question": "What radiographic/clinical factors are associated with worse pilon outcomes?",
+        "answer": "Severe comminution, poor articular reduction, malalignment, open fracture, smoking/diabetes, and severe soft-tissue injury.",
+        "explanation": "Joint congruity and alignment drive arthritis risk; biology and soft tissue drive infection/non-union risk."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Prognosis",
+        "question": "What articular step/gap threshold is commonly cited as clinically important for joint congruity?",
+        "answer": "Around 2 mm (as a commonly used benchmark).",
+        "explanation": "Smaller is better; persistent incongruity increases contact stresses and post-traumatic arthritis risk."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Open Fracture",
+        "question": "What are priorities in an open pilon fracture?",
+        "answer": "Early antibiotics as per local protocol, urgent debridement, stabilisation (often spanning ex-fix), and staged definitive reconstruction with soft-tissue strategy.",
+        "explanation": "Infection prevention and soft-tissue management dominate; definitive fixation timing depends on contamination and coverage."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Fixation Options",
+        "question": "When might circular frame fixation be considered for pilon fractures?",
+        "answer": "Severe comminution, compromised soft tissues, open fractures, or when minimally invasive stabilisation is preferred.",
+        "explanation": "Frames can allow gradual correction, maintain alignment, and reduce large incisions in fragile soft tissues."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Fixation Options",
+        "question": "When might primary ankle fusion be considered in a pilon injury?",
+        "answer": "Non-reconstructable articular surface, severe cartilage loss/comminution, or salvage after failed reconstruction with pain and arthritis.",
+        "explanation": "Fusion may provide stability and pain relief when anatomical restoration is impossible or has failed."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "FRCS Viva",
+        "question": "Why is infection risk high in pilon fracture ORIF compared with many other fractures?",
+        "answer": "Severe soft-tissue injury from high-energy mechanism plus the subcutaneous distal tibia and swelling/blisters.",
+        "explanation": "This combination predisposes to wound complications and deep infection."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "FRCS Viva",
+        "question": "What is the rationale for delaying definitive pilon ORIF until soft tissues recover?",
+        "answer": "To reduce wound breakdown and infection by operating when swelling has settled and skin condition improves.",
+        "explanation": "A staged approach trades time for safer soft-tissue conditions and better outcomes."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "FRCS Viva",
+        "question": "What is the key surgical objective that most strongly influences long-term ankle arthritis after pilon fracture?",
+        "answer": "Restoring articular congruity and overall alignment as best as possible.",
+        "explanation": "Residual step-off and malalignment increase joint contact stress and accelerate degenerative change."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "FRCS Viva",
+        "question": "Name three reasons why pilon fractures are technically difficult to fix.",
+        "answer": "Fragment comminution/impaction, limited soft-tissue tolerance for approaches, and the need for precise articular reduction plus stable metaphyseal fixation.",
+        "explanation": "They are a 'soft-tissue and reduction' problem as much as a fixation problem."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Examination",
+        "question": "What focused exam findings matter most initially for pilon fractures?",
+        "answer": "Neurovascular status, skin compromise/threatened soft tissues, swelling/blisters, compartment tenderness, and associated injuries.",
+        "explanation": "These dictate urgency of reduction, need for spanning fixation, and surgical timing."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Associated Injuries",
+        "question": "What associated injuries should you actively look for with high-energy pilon fractures?",
+        "answer": "Other limb fractures, calcaneal fractures, spine/pelvic injuries, and soft-tissue wounds/open fracture.",
+        "explanation": "Mechanism is often high-energy; full trauma assessment and imaging may be required."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Planning",
+        "question": "Why must you plan skin bridges when using multiple approaches around the distal tibia?",
+        "answer": "To reduce risk of skin necrosis and wound breakdown.",
+        "explanation": "Poor perfusion in swollen tissues and close incisions can lead to catastrophic wound complications."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Planning",
+        "question": "What is the role of fibula fixation during stage 1 management in some pilon fractures?",
+        "answer": "It can restore length and aid alignment, improving provisional reduction and later tibial reconstruction.",
+        "explanation": "Not mandatory in all cases; decision is pattern-dependent and must respect soft tissues."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Planning",
+        "question": "What should you ensure before definitive ORIF after a spanning ex-fix?",
+        "answer": "Soft tissues are ready (wrinkle sign), pin sites are satisfactory, CT is reviewed, and a clear approach/fixation plan is established.",
+        "explanation": "Staged management is only effective if definitive surgery is planned and executed with fragment-based strategy."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Intra-op",
+        "question": "How can you reduce the risk of malreduction of the articular surface in pilon fractures?",
+        "answer": "Use CT-based fragment planning, direct visualisation where needed, stable provisional fixation, and confirm with fluoroscopy in multiple planes.",
+        "explanation": "Anatomical reduction is demanding; structured steps and imaging checks reduce error."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Intra-op",
+        "question": "Why is metaphyseal comminution a problem for fixation stability in pilon fractures?",
+        "answer": "It compromises bone stock for purchase and creates a void that predisposes to collapse and malalignment.",
+        "explanation": "Bridging constructs, buttress principles, and void management are often required."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Comparison",
+        "question": "How does TTC nailing differ conceptually from isolated ankle arthrodesis?",
+        "answer": "TTC spans and fuses ankle + subtalar joints, whereas isolated ankle fusion preserves subtalar motion.",
+        "explanation": "TTC is used when subtalar joint is involved/at risk or when a stronger salvage construct is needed."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Comparison",
+        "question": "Why might an isolated ankle fusion be insufficient in some patients being considered for TTC fusion?",
+        "answer": "Because subtalar arthritis/deformity or talar collapse may persist and remain painful/unstable if the subtalar joint is not addressed.",
+        "explanation": "TTC addresses multi-joint pathology and hindfoot alignment in one construct."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Patient Factors",
+        "question": "Which patient factors increase complication risk in TTC fusion/nailing?",
+        "answer": "Diabetes, neuropathy/Charcot, smoking, poor vascularity, poor soft tissues, and osteoporosis.",
+        "explanation": "These impair wound healing and fusion biology and increase infection and failure risk."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Patient Factors",
+        "question": "How does neuropathy change your goals and counselling for TTC procedures?",
+        "answer": "Focus on stability and a plantigrade foot; counsel on higher risk of non-union, infection, and hardware failure.",
+        "explanation": "Charcot/neuropathy patients prioritise limb salvage and braceable alignment over motion preservation."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Operative Planning",
+        "question": "What pre-op planning checks are essential before TTC nailing?",
+        "answer": "Assess alignment/deformity, soft tissues, bone stock, infection risk, and define whether this is stabilisation vs formal fusion.",
+        "explanation": "The indication determines how aggressively you prepare joints, compress, and set post-op weight-bearing."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Operative Planning",
+        "question": "Why is it useful to obtain (or simulate) weight-bearing alignment information before TTC fusion?",
+        "answer": "Because final alignment must be plantigrade under load; non-weight-bearing deformities can mislead.",
+        "explanation": "A well-aligned fusion is as important as union for function and pain."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "FRCS Viva",
+        "question": "If your TTC fusion ends up in equinus, what problems might the patient have?",
+        "answer": "Toe-walking tendency, difficulty with shoe wear, increased forefoot pressures, and impaired gait.",
+        "explanation": "Neutral dorsiflexion is important for functional walking and to avoid compensatory gait patterns."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "FRCS Viva",
+        "question": "What is the functional consequence of TTC fusion on gait compared with normal ankle/subtalar motion?",
+        "answer": "Reduced hindfoot motion and shock absorption; gait becomes more rigid and relies on midfoot/forefoot and proximal joints for compensation.",
+        "explanation": "Patients often adapt but may have limitations on uneven ground and slopes."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Differentials",
+        "question": "What injuries can mimic or overlap with a pilon fracture around the ankle?",
+        "answer": "Ankle fracture-dislocation, distal tibial metaphyseal fracture without articular involvement, talar fractures, and severe ligamentous injuries.",
+        "explanation": "CT clarifies articular involvement and plafond comminution to distinguish true pilon patterns."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "FRCS Viva",
+        "question": "What is your one-line management principle for high-energy pilon fractures?",
+        "answer": "Respect soft tissues: provisional stabilisation first, CT-based planning, then definitive fixation when soft tissues permit.",
+        "explanation": "Staging is foundational for reducing wound complications and improving outcomes."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "FRCS Viva",
+        "question": "Why might you fix the fibula in a pilon fracture even if the tibia is the main problem?",
+        "answer": "To restore length/alignment and stabilise the lateral column, aiding tibial plafond reduction and mortise restoration.",
+        "explanation": "Fibula acts as a template; however, fixation must be balanced against soft-tissue status and surgical strategy."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "FRCS Viva",
+        "question": "What is the key danger of doing definitive ORIF too early in a swollen high-energy pilon fracture?",
+        "answer": "Wound breakdown and deep infection.",
+        "explanation": "Early incisions through compromised tissues can lead to catastrophic soft-tissue failure."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Post-op",
+        "question": "What are common post-operative issues to anticipate after pilon ORIF?",
+        "answer": "Swelling and wound monitoring, ankle stiffness, prolonged non/partial weight bearing depending on fixation, and need for physiotherapy.",
+        "explanation": "Rehab is long and stiffness is common even after good reduction."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Post-op",
+        "question": "What clinical findings post-op should raise concern for deep infection after pilon fixation?",
+        "answer": "Increasing pain, erythema, wound breakdown, discharge, fever, and rising inflammatory markers in context.",
+        "explanation": "Early detection matters; soft-tissue compromise can progress quickly."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Malunion",
+        "question": "What is a commonly problematic malunion pattern after pilon fractures?",
+        "answer": "Distal tibial varus with medial collapse.",
+        "explanation": "Varus shifts load medially and accelerates arthritis; it also impairs gait and shoe wear."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Malunion",
+        "question": "Why is maintaining sagittal plane alignment important in pilon fractures?",
+        "answer": "Sagittal malalignment alters ankle mechanics and can contribute to anterior/posterior impingement and arthritis.",
+        "explanation": "Both coronal and sagittal alignment are critical, not just articular reduction."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Complications",
+        "question": "Why can non-union occur in pilon fractures despite being metaphyseal?",
+        "answer": "Severe comminution, devascularisation, infection, and instability can impair healing even in metaphyseal bone.",
+        "explanation": "Biology (soft tissues, blood supply) and mechanics (stability) govern union."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Complications",
+        "question": "What is the relationship between pilon fractures and post-traumatic ankle arthritis?",
+        "answer": "High incidence due to cartilage injury, articular incongruity, and altered load distribution.",
+        "explanation": "Even with anatomical reduction, initial cartilage damage and injury severity can drive degeneration."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Salvage",
+        "question": "What are salvage options for end-stage painful post-traumatic arthritis after pilon fracture?",
+        "answer": "Ankle arthrodesis, TTC fusion (if subtalar involvement), or selected cases of ankle arthroplasty depending on patient factors.",
+        "explanation": "Choice depends on bone stock, alignment, soft tissues, infection history, and adjacent joint status."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Link to Pilon",
+        "question": "In what scenario might TTC nailing be relevant to a distal tibia/pilon context?",
+        "answer": "As salvage for non-reconstructable ankle/pilon injuries, failed fixation with collapse/infection risk, or in frail patients where stable spanning fixation is chosen.",
+        "explanation": "TTC can be part of a limb-salvage pathway when the ankle joint cannot be reliably reconstructed."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Link to Pilon",
+        "question": "What is the key trade-off when choosing TTC fusion as a salvage option for a destroyed ankle joint?",
+        "answer": "Pain relief and stability at the cost of ankle/subtalar motion and a more rigid gait.",
+        "explanation": "The goal becomes a stable plantigrade foot rather than joint preservation."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Operative Planning",
+        "question": "What is the purpose of provisional reduction before CT in pilon fractures?",
+        "answer": "To restore length/alignment so CT better reflects true fragment relationships for surgical planning.",
+        "explanation": "A displaced plafond can make CT interpretation misleading; spanning ex-fix improves planning quality."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Operative Planning",
+        "question": "What is the key reason to avoid multiple large incisions at the first definitive sitting in pilon fractures?",
+        "answer": "To minimise soft tissue devascularisation and wound complications.",
+        "explanation": "Soft tissues have already been injured; surgical trauma must be minimised with careful approach selection and planning."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Operative Planning",
+        "question": "How does fragment pattern influence approach choice in pilon ORIF?",
+        "answer": "Approaches are chosen to visualise and buttress key fragments directly (e.g., posterolateral for Volkmann), rather than using a single universal approach.",
+        "explanation": "CT-based fragment mapping guides the incision(s) and fixation strategy."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Operative Pitfalls",
+        "question": "What is a common cause of late collapse after pilon fixation even when the joint looks initially reduced?",
+        "answer": "Unaddressed metaphyseal void/impaction leading to subsidence of the elevated articular surface.",
+        "explanation": "Supporting the elevated fragments and maintaining alignment reduces risk of secondary displacement."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Operative Pitfalls",
+        "question": "What is the risk of relying solely on indirect reduction for posterior fragments in pilon fractures?",
+        "answer": "Residual malreduction of the posterior plafond, which can compromise joint congruity and syndesmotic stability.",
+        "explanation": "Posterior fragments often benefit from direct reduction and buttress fixation when significant."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "FRCS Viva",
+        "question": "What imaging or clinical checks help you avoid plantar prominence issues with a TTC nail?",
+        "answer": "Confirm nail depth and entry point on lateral/hindfoot axial fluoroscopy and palpate plantar soft tissues; ensure no excessive protrusion.",
+        "explanation": "Small positioning errors can translate into painful heel symptoms due to weight-bearing forces."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "FRCS Viva",
+        "question": "What is the biomechanical advantage of an intramedullary TTC construct compared with plates for fusion?",
+        "answer": "Load sharing along the mechanical axis with less reliance on cortical purchase and less prominence in compromised soft tissues.",
+        "explanation": "IM nails can be advantageous in osteoporotic/neuropathic bone and in cases where soft tissue tolerance is limited."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Infection",
+        "question": "What is the first principle when evaluating a painful TTC nail/fusion with suspected infection?",
+        "answer": "Assume infection until proven otherwise and evaluate clinically plus inflammatory markers and imaging; consider aspiration if appropriate.",
+        "explanation": "Infection dramatically changes management, including potential staged revision and debridement."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "FRCS Viva",
+        "question": "What key points would you include in consent for pilon ORIF?",
+        "answer": "Infection/wound problems, non-union/malunion, stiffness, post-traumatic arthritis, further surgery, neurovascular injury, and thromboembolic risk.",
+        "explanation": "Wound and long-term arthritis risks are particularly salient in pilon fractures."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "FRCS Viva",
+        "question": "What is the single most important non-technical factor to optimise for pilon outcomes?",
+        "answer": "Soft tissue condition (timing and approach decisions based on soft-tissue readiness).",
+        "explanation": "Even excellent fixation fails if soft tissues break down or infect."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Rehab",
+        "question": "Why is ankle stiffness so common after pilon fractures?",
+        "answer": "Articular injury, capsular scarring, prolonged immobilisation/limited weight bearing, and soft-tissue trauma.",
+        "explanation": "Early safe motion when permitted and good physio are important, but stiffness may persist."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Rehab",
+        "question": "What is a realistic expectation to set with patients about recovery timeline after a severe pilon fracture?",
+        "answer": "Prolonged recovery with months of rehab; swelling and stiffness can persist long-term and function may not return to baseline.",
+        "explanation": "Expectation management helps adherence and reduces dissatisfaction given the injury severity."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Rehab",
+        "question": "What is a common functional limitation after TTC fusion even with union?",
+        "answer": "Difficulty walking on uneven ground and reduced ability to accommodate slopes due to loss of hindfoot motion.",
+        "explanation": "Subtalar and ankle motion normally adapt to uneven surfaces; fusion makes gait more rigid."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Rehab",
+        "question": "Why might adjacent joints become symptomatic after TTC fusion?",
+        "answer": "Increased compensatory motion and load through midfoot and more proximal joints.",
+        "explanation": "Loss of hindfoot motion shifts biomechanics, potentially accelerating adjacent joint degeneration."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Key Numbers/Rules of Thumb",
+        "question": "What is the common staged timing window for definitive ORIF in high-energy pilon fractures?",
+        "answer": "Often around 7–14 days, guided by soft tissues (wrinkle sign), not the calendar.",
+        "explanation": "Swelling, blisters, and skin condition dictate timing; operate when tissues are ready."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Key Numbers/Rules of Thumb",
+        "question": "What is a commonly cited target for articular reduction quality in pilon fractures?",
+        "answer": "Aim for anatomic reduction with step/gap as close to 0 as possible; <2 mm is a commonly used benchmark.",
+        "explanation": "Residual incongruity increases contact stress and is associated with worse long-term outcomes."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Key Numbers/Rules of Thumb",
+        "question": "What coronal plane position is often aimed for in TTC fusion and why?",
+        "answer": "Slight valgus (~5°) to improve tolerance and reduce lateral border overload.",
+        "explanation": "A small valgus angle is generally functional and reduces painful overload compared with varus."
+      },
+      {
+        "case": "Hindfoot Nail (TTC Nail)",
+        "category": "Theatre Questions",
+        "question": "If the consultant asks, 'What must we check before we lock the nail?', what are the essentials?",
+        "answer": "Overall alignment (valgus/plantigrade), nail depth/position, rotation, and that the hindfoot is reduced and stable under imaging.",
+        "explanation": "Locking commits alignment; errors become difficult to correct after locking."
+      },
+      {
+        "case": "Pilon Fracture",
+        "category": "Theatre Questions",
+        "question": "If the consultant asks, 'What is the main enemy in pilon fixation?', what is the best answer?",
+        "answer": "Soft tissue compromise.",
+        "explanation": "Poor soft tissue handling/timing drives wound breakdown and infection, which dominate outcomes."
+      }
+    ]
+  }

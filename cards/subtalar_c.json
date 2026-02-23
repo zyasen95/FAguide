@@ -1,0 +1,214 @@
+{
+    "flashcards": [
+      {
+        "case": "Subtalar Fusion",
+        "category": "Approach",
+        "question": "Where is the standard sinus tarsi incision placed?",
+        "answer": "From the distal tip of the fibula towards the base of the 4th metatarsal.",
+        "explanation": "Gives access to the sinus tarsi and posterior facet while keeping you away from peroneals posteriorly."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Approach",
+        "question": "Which key ligaments must be released to access the posterior facet via sinus tarsi?",
+        "answer": "Cervical ligament and interosseous talocalcaneal ligament.",
+        "explanation": "These occupy the sinus tarsi and limit distraction/exposure of the posterior facet."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Anatomy",
+        "question": "What is the cervical ligament and where is it?",
+        "answer": "A strong ligament in the sinus tarsi connecting talar neck to calcaneus.",
+        "explanation": "Important stabiliser; encountered and divided during sinus tarsi exposure."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Anatomy",
+        "question": "What is the interosseous talocalcaneal ligament?",
+        "answer": "A deep ligament in the tarsal canal between talus and calcaneus.",
+        "explanation": "A major subtalar stabiliser; release improves joint exposure for preparation."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Anatomy",
+        "question": "Difference between sinus tarsi and tarsal canal?",
+        "answer": "Sinus tarsi is lateral opening; tarsal canal is the medial continuation.",
+        "explanation": "Both contain the interosseous ligament complex; relevant to medial vs lateral dissection."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Technique",
+        "question": "What is the commonest area of incomplete joint preparation in subtalar fusion?",
+        "answer": "The posteromedial corner of the posterior facet.",
+        "explanation": "Hard to visualise from lateral approach; residual cartilage predisposes to non-union."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Technique",
+        "question": "How do you ensure you have removed all cartilage from the posterior facet?",
+        "answer": "Expose the full facet, remove cartilage to bleeding bone, and probe edges—especially posteromedially.",
+        "explanation": "Visual + tactile confirmation reduces risk of leaving cartilage islands."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Technique",
+        "question": "Why do you 'fish-scale' or perforate subchondral bone?",
+        "answer": "To stimulate bleeding and osteogenesis.",
+        "explanation": "Increases biological activity and fusion potential across the prepared surfaces."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Fixation",
+        "question": "Typical screw start point for a posterior-to-anterior subtalar fusion screw?",
+        "answer": "Posterior calcaneal tuberosity.",
+        "explanation": "Allows long trajectory and compression across the posterior facet into talar body."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Fixation",
+        "question": "What is the key imaging risk when advancing subtalar screws?",
+        "answer": "Penetration into the ankle joint.",
+        "explanation": "A too-superior trajectory can violate the talar dome; confirm with lateral fluoroscopy."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Fixation",
+        "question": "Why can a screw that is too anterior be a problem?",
+        "answer": "It may miss the posterior facet and provide poor compression.",
+        "explanation": "You need compression across the posterior facet—missing it reduces stability and fusion."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Alignment",
+        "question": "What intra-operative view helps confirm hindfoot varus/valgus alignment?",
+        "answer": "Harris heel view.",
+        "explanation": "Shows calcaneal position relative to tibia; useful before final tightening."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Alignment",
+        "question": "What clinical check helps you avoid fusing in varus?",
+        "answer": "Visually align the calcaneal tuberosity under the tibial axis before fixation.",
+        "explanation": "Clinical alignment plus fluoroscopy reduces risk of residual varus."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Indications",
+        "question": "In post-calcaneal fracture arthritis, why is CT often useful pre-op?",
+        "answer": "Defines facet congruity, sclerosis, bone loss, and deformity.",
+        "explanation": "Helps planning for joint prep, graft need, and alignment correction."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Complications",
+        "question": "How does smoking impact subtalar fusion?",
+        "answer": "It significantly increases non-union risk.",
+        "explanation": "Vascular and osteogenic impairment makes fusion less reliable—high-yield counselling point."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Complications",
+        "question": "Common lateral soft tissue complications in subtalar fusion?",
+        "answer": "Wound problems and sural nerve neuropraxia/numbness.",
+        "explanation": "Sinus tarsi approach traverses lateral skin envelope and risks sural nerve."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Decision-making",
+        "question": "When might isolated subtalar fusion be insufficient and require more?",
+        "answer": "When TN/CC arthritis or major hindfoot malalignment is present.",
+        "explanation": "Pain source or deformity extends beyond subtalar joint—consider triple or additional osteotomy."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Biomechanics",
+        "question": "What functional complaint is typical after subtalar fusion?",
+        "answer": "Difficulty walking on uneven ground.",
+        "explanation": "Loss of inversion/eversion reduces adaptability."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Assessment",
+        "question": "How do you clinically isolate subtalar motion during exam?",
+        "answer": "Stabilise talus and assess inversion/eversion of calcaneus.",
+        "explanation": "Avoid confusing subtalar motion with ankle dorsiflexion/plantarflexion."
+      },
+      {
+        "case": "Subtalar Fusion",
+        "category": "Assessment",
+        "question": "Clinical feature suggesting subtalar pathology rather than ankle pathology?",
+        "answer": "Pain worse on uneven ground and with inversion stress.",
+        "explanation": "Subtalar joint is the primary adaptor on uneven surfaces."
+      },
+      {
+        "case": "Triple Fusion with PSI Osteotomy",
+        "category": "Approach",
+        "question": "What are the two main incisions described for the corrective triple fusion case?",
+        "answer": "A dorsomedial incision (talus to 1st metatarsal) and a lateral incision to access subtalar/CC region.",
+        "explanation": "Dorsomedial for TN + jig placement; lateral for ST and CC preparation."
+      },
+      {
+        "case": "Triple Fusion with PSI Osteotomy",
+        "category": "Principles",
+        "question": "What is the primary goal of surgery in rigid talipes/cavus reconstruction?",
+        "answer": "A plantigrade, shoeable, stable foot.",
+        "explanation": "This is the patient-centred endpoint; alignment and fusion are means to that goal."
+      },
+      {
+        "case": "Triple Fusion with PSI Osteotomy",
+        "category": "Principles",
+        "question": "Why is alignment more important than fixation strength in hindfoot fusions?",
+        "answer": "Malalignment drives abnormal loading and failure even with strong fixation.",
+        "explanation": "Residual varus especially causes lateral overload and non-union/pain."
+      },
+      {
+        "case": "Triple Fusion with PSI Osteotomy",
+        "category": "PSI",
+        "question": "What must be true before you commit to cutting with the PSI jig?",
+        "answer": "The jig must seat perfectly flush on bone.",
+        "explanation": "Any mismatch translates directly into an incorrect osteotomy plane and malcorrection."
+      },
+      {
+        "case": "Triple Fusion with PSI Osteotomy",
+        "category": "PSI",
+        "question": "Name two key advantages of PSI jigs in complex cavus correction.",
+        "answer": "Accurate wedge geometry and controlled multiplanar correction.",
+        "explanation": "Reduces guesswork and variability in complex deformity where freehand cuts risk under-correction."
+      },
+      {
+        "case": "Triple Fusion with PSI Osteotomy",
+        "category": "Osteotomy",
+        "question": "Why is preserving the plantar cortex often desirable during a closing wedge correction?",
+        "answer": "It acts as a hinge and improves stability.",
+        "explanation": "A controlled hinge helps close the wedge predictably and supports healing."
+      },
+      {
+        "case": "Triple Fusion with PSI Osteotomy",
+        "category": "Radiology",
+        "question": "What does the 'break' in Meary’s line indicate?",
+        "answer": "The apex of deformity in the sagittal plane.",
+        "explanation": "Guides whether correction should be forefoot, midfoot (Cole-type), or hindfoot focused."
+      },
+      {
+        "case": "Triple Fusion with PSI Osteotomy",
+        "category": "Osteotomy",
+        "question": "In the described PSI case, what bony path is being cut?",
+        "answer": "From navicular medially across to cuboid/anterior calcaneal process laterally.",
+        "explanation": "This is essentially a custom midfoot wedge resection to allow plantigrade correction."
+      },
+      {
+        "case": "Triple Fusion with PSI Osteotomy",
+        "category": "Fusion",
+        "question": "Why does the wedge resection not by itself guarantee success?",
+        "answer": "Final correction is determined by fusion position and alignment.",
+        "explanation": "The wedge allows repositioning; the fusion locks the corrected alignment."
+      },
+      {
+        "case": "Triple Fusion with PSI Osteotomy",
+        "category": "Common Pitfalls",
+        "question": "What is the single worst alignment error to avoid in cavus triple fusion?",
+        "answer": "Residual hindfoot varus.",
+        "explanation": "Predicts lateral overload, pain, and higher risk of failure/non-union."
+      }
+    ]
+  }
